@@ -13,7 +13,7 @@ Here are the steps to contribute to this project :
 - Create a feature/bug/whatever-you-mean branch
 - Commit the change
 - Push to the branch
-- Create pull request
+- Create pull request to the dev branch
 
 ## Maintainer(s) :
 
